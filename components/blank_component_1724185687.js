@@ -108,4 +108,5 @@ Vue.component("blank_component_1724185687", {
             tab: null,
         };
     },
+
 });
